@@ -9,7 +9,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/Lithuz/Llithuz/master/banner_gu.png
+[banner]: https://raw.githubusercontent.com/Lithuz/Lithuz/master/banner_gu.png
 [website]: https://aldesigndev.com/
 [twitter]: https://twitter.com/lithuz
 [twitch]: https://twitch.tv/lithuz
